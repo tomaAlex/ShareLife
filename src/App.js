@@ -2,7 +2,11 @@ import React from 'react';
 
 function App() {
   return (
-    null
+    <>
+      <h1>
+        hello, world!
+      </h1>
+    </>
   );
 }
 
